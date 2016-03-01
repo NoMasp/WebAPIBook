@@ -1,22 +1,22 @@
-﻿# 目录
+# 目录
 
-- [入门]
-	- [ASP.NET Web API入门](1-Getting Started/1-GettingStartedwithASP.NETWebAPI2.md)
-	- [Web API 2中的Action Results](1 Getting Started/2-ActionResultsinWebAPI 2.md)
-	- [实战：用Web API和Angular.js创建单页面应用程序（上）](1 Getting Started/3-HandsOnLabBuildaSinglePageApplication(SPA)withASP.NETWebAPIandAngular.js(1).md)
-	- [实战：用Web API和Angular.js创建单页面应用程序（下）](1 Getting Started/4-HandsOnLabBuildaSinglePageApplication(SPA)withASP.NETWebAPIandAngular.js(2).md)
-- [路由]
-	- [ASP.NET Web API中的路由机制](2-Routing/1-Routing-in-ASP.NET-Web-API.md)
+- 入门
+	- [ASP.NET Web API入门](1-Getting-Started/1-GettingStartedwithASP-NETWebAPI2.md)
+	- [Web API 2中的Action Results](1-Getting-Started/2-ActionResultsinWebAPI-2.md)
+	- [实战：用Web API和Angular.js创建单页面应用程序（上）](1-Getting-Started/3-HandsOnLabBuildaSinglePageApplication-SPA-withASP-NETWebAPIandAngular-js-1.md)
+	- [实战：用Web API和Angular.js创建单页面应用程序（下）](1-Getting-Started/4-HandsOnLabBuildaSinglePageApplication-SPA-withASP-NETWebAPIandAngular-js-2.md)
+- 路由
+	- [ASP.NET Web API中的路由机制](2-Routing/1-Routing-in-ASP-NET-Web-API.md)
 	- [ASP.NET Web API中的路由和动作选择机制](2-Routing/2-Routing-and-Action-Selection-in-Web-API.md)
-	- [ASP.NET Web API 2中的属性路由](2-Routing/3-Attribute-Routing-in-ASP.NET-Web-API-2.md)
-- [处理数据]
+	- [ASP.NET Web API 2中的属性路由](2-Routing/3-Attribute-Routing-in-ASP-NET-Web-API-2.md)
+- 处理数据
 	- [实战：处理数据（创建项目）](3-Working-and-Data/1-Create-the-Project.md)
 	- [实战：处理数据（添加模型和控制器）](3-Working-and-Data/2-Add-Models-and-Controllers.md)
 	- [实战：处理数据（建立数据库）](3-Working-and-Data/3-Seed-the-Database.md)
 	- [实战：处理数据（处理实体关系）](3-Working-and-Data/4-Handling-Entity-Relations.md)
-	- [实战：处理数据（创建数据传输对象）](3-Working-and-Data/5-Create-Data-Transfer-Objects (DTOs).md)
+	- [实战：处理数据（创建数据传输对象）](3-Working-and-Data/5-Create-Data-Transfer-Objects-DTOs.md)
 	- [实战：处理数据（创建JavaScript客户端）](3-Working-and-Data/6-Create-the-JavaScript-Client.md)
-	- [实战：处理数据（创建UI视图）](3-Working-and-Data/7-Create-the-View-(UI).md)
+	- [实战：处理数据（创建UI视图）](3-Working-and-Data/7-Create-the-View-UI.md)
 	- [实战：处理数据（显示条目细节）](3-Working-and-Data/8-Display-Item-Details.md)
 	- [实战：处理数据（添加新条目到数据库）](3-Working-and-Data/9-Add-a-New-Item-to-the-Database.md)
 	- [实战：处理数据（发布App到Azure App Service）](3-Working-and-Data/10-Publish-the-App-to-Azure-App-Service.md)

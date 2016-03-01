@@ -1,5 +1,4 @@
-**关于本教程**
------
+# 关于本教程
 
 ASP.NET Web API 是一种框架，用于轻松构建可以访问多种客户端（包括浏览器和移动设备）的 HTTP 服务。 ASP.NET Web API 是一种用于在 .NET Framework 上构建 RESTful 应用程序的理想平台。
 
