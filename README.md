@@ -11,7 +11,7 @@ ASP.NET Web API 是一种框架，用于轻松构建可以访问多种客户端�
 **关于作者**
 ----
 
-柯于旺（ID：nomasp），湖北黄石人，就读于江苏科技大学。CSDN博客专家及**博客之星**，欢迎访问我的博客，地址为：<a href="http://blog.csdn.net/nomasp" target="_blank">blog.csdn.net/nomasp</a> 。
+柯于旺（ID：nomasp），湖北黄石人，就读于江苏科技大学。CSDN2015年度博客之星，欢迎访问我的博客，地址为：<a href="http://blog.csdn.net/nomasp" target="_blank">blog.csdn.net/nomasp</a> 。
 
 QQ交流群：<a href="http://jq.qq.com/?_wv=1027&k=2Hju2Xm" target="_blank">【UWP开发交流群】</a> 
 
