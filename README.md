@@ -13,8 +13,12 @@ ASP.NET Web API 是一种框架，用于轻松构建可以访问多种客户端�
 
 柯于旺（ID：nomasp），CSDN2015年度博客之星，欢迎访问我的博客，地址为：<a href="http://blog.csdn.net/nomasp" target="_blank">blog.csdn.net/nomasp</a> 。
 
-QQ交流群：<a href="http://jq.qq.com/?_wv=1027&k=2Hju2Xm" target="_blank">【UWP开发交流群】</a> 
+QQ交流群：<a href="http://jq.qq.com/?_wv=1027&k=2Hju2Xm" target="_blank">微软技术交流群</a> 
 
 作者邮箱：nomasp@outlook.com
 
 作者微博：<a href="http://weibo.com/nomasp" target="_blank">NoMasp</a> 
+
+#### 如果你觉得本教程对你有帮助，欢迎打赏
+
+<img src="cover/webapikeyuwang.jpg" width="400">
